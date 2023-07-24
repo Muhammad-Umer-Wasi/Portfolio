@@ -48,6 +48,15 @@
   background: linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
   background: -webkit-linear-gradient(-90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
 }
+.experience-background {
+  /* Add the background image URL and other styles as needed */
+  background-image: url("src/assets/New.png.jpg");
+  /* Additional background styles such as size, position, repeat, etc. */
+  /* For example: */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* Add other styles as needed */
+}
 
 .orange-text-gradient {
   background: #f12711; /* fallback for old browsers */

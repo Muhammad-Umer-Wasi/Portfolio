@@ -292,6 +292,58 @@ const projects = [
     image: jobit,
     source_code_link: "https://github.com/Muhammad-Umer-Wasi/OOP-Feast-Express",
   },  
+  {
+    name: "NLP ToolBox MERN",
+    description:
+    "Unlock the power of Natural Language Processing (NLP) with the NLP Toolbox. Explore features like sentiment analysis, entity recognition, and text transformation. Empower your text data with the cutting-edge capabilities of NLP in just a few clicks",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "nlp",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mern",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/Muhammad-Umer-Wasi/NLP-Toolbox-Using-MERN-Stack",
+  },
+  {
+    
+    name: "Dots & Boxes",
+    description:
+    "Welcome to the Collaborative-DynamicMultiplayer-Game GitHub repository! This project showcases a distributed implementation of the beloved game Dots & Boxes, designed to bring an immersive multiplayer experience to players worldwide",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mern",
+        color: "pink-text-gradient",
+      },
+      
+      {
+        name: "sockets",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "src/assets/Dots.PNG",
+    source_code_link: "https://github.com/Muhammad-Umer-Wasi/CN-Dots-And-Boxes-Dynamic-Multiplayer-Game",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
